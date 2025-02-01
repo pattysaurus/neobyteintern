@@ -1,6 +1,5 @@
-# LaraEventTickets: Laravel 5.4 based system for event organizers to manage and sell tickets.
-
-
+Task: Develop a Community Event Management Website 
+Made by- Pratham Gaur
 
 - __Email__: admin@admin.com
 - __Pass__: password
@@ -15,8 +14,6 @@
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - That's it: launch the main URL. You can also login at __/login__ with default credentials __admin@admin.com__ - __password__
 
-## License
 
-Basically, feel free to use and re-use any way you want.
 
 
